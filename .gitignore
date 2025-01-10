@@ -10,5 +10,3 @@ composer.*
 /bkdir
 *.pyc
 *.msp
-*.msx
-*.py
